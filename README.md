@@ -129,12 +129,6 @@ ControlPerVeu/
 - Assegura't que hi ha silenci ambiental
 - Comprova que el micròfon està seleccionat com a dispositiu d'entrada per defecte
 
-### 📄 Llicència
-
-Aquest projecte està sota llicència ISC ControlPerVeu:62-62 .
-
----
-
 **Nota**: Per al MANUAL_USUARI.pdf, he de informar-te que actualment no puc generar fitxers PDF. No obstant això, pots crear un document senzill amb captures de pantalla de la interfície mostrant:
 1. La pantalla principal amb el botó "Escolta"
 2. L'estat "Escoltant..." amb el micròfon actiu
